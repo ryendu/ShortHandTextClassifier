@@ -1,0 +1,1401 @@
+[
+{
+	"shortendText": "oj",
+	"fullText": "orange juice",
+	"isShortHand" : "true"
+},
+{
+	"shortendText": "ygrt",
+	"fullText": "yogurt",
+	"isShortHand": "true"
+},
+{
+	"shortendText": "smpl",
+	"fullText": "sample",
+	"isShortHand": "true"
+},
+{
+    "shortendText": "appl",
+    "fullText": "apple",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "crn",
+    "fullText": "corn",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "grpe",
+    "fullText": "grape",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "wtrmlon",
+    "fullText": "watermellon",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cki",
+    "fullText": "cookie",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cookie",
+    "fullText": "bread",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "nec",
+    "fullText": "nectarines",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "nectarines",
+    "fullText": "onions",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mgr",
+    "fullText": "mustard greens",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mustard",
+    "fullText": "radish",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mush",
+    "fullText": "mushrooms",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mushroom",
+    "fullText": "tomato",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "ons",
+    "fullText": "onions",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "onions",
+    "fullText": "potato",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pch",
+    "fullText": "peaches",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "peaches",
+    "fullText": "pears",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pep",
+    "fullText": "peppers",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "peppers",
+    "fullText": "chips",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pkn",
+    "fullText": "pumpkins",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "pumpkins",
+    "fullText": "cucumber",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pot",
+    "fullText": "potatoes",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "potatoes",
+    "fullText": "banana",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "rasp",
+    "fullText": "raspberries",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "rasberries",
+    "fullText": "strawberry",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "rad",
+    "fullText": "radishes",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "radishes",
+    "fullText": "rice",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "sld",
+    "fullText": "salad",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "salad",
+    "fullText": "ranch",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "spn",
+    "fullText": "spinach",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "spinach",
+    "fullText": "apple",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "str",
+    "fullText": "strawberries",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "strawberries",
+    "fullText": "blueberries",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "tom",
+    "fullText": "tomatoes",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "tomatoes",
+    "fullText": "asparagus",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "tur",
+    "fullText": "turnips",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "turnips",
+    "fullText": "radish",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "apl",
+    "fullText": "apples",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "apples",
+    "fullText": "oranges",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "asp",
+    "fullText": "asparagus",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "asparagus",
+    "fullText": "strawberries",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bcc",
+    "fullText": "broccoli",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "broccoli",
+    "fullText": "cauliflower",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "asp",
+    "fullText": "asparagus",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "asparagus",
+    "fullText": "basil",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bkb",
+    "fullText": "blackberries",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "blackberries",
+    "fullText": "blueberries",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "blb",
+    "fullText": "blueberries",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "blueberries",
+    "fullText": "fries",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cab",
+    "fullText": "cabbage",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cabbage",
+    "fullText": "lettuce",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "car",
+    "fullText": "carrots",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "carrots",
+    "fullText": "potatoes",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cel",
+    "fullText": "celery",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "celery",
+    "fullText": "oreos",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cux",
+    "fullText": "cucumbers",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cucumbers",
+    "fullText": "garlic",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "egp",
+    "fullText": "eggplant",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "eggplant",
+    "fullText": "grapes",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "gar",
+    "fullText": "garlic",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "garlic",
+    "fullText": "ginger",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "veg",
+    "fullText": "vegetables",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "vegetables",
+    "fullText": "jalapeno",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "grps",
+    "fullText": "grapes",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "grapes",
+    "fullText": "eggs",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "jal",
+    "fullText": "jalapeno peppers",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "jalapeno peppers",
+    "fullText": "corn",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "let",
+    "fullText": "lettuce",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "lettuce",
+    "fullText": "squash",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mel",
+    "fullText": "melons",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "melons",
+    "fullText": "watermelons",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "per",
+    "fullText": "persimmons",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "persimmons",
+    "fullText": "fig",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pnuts",
+    "fullText": "peanuts",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "peanuts",
+    "fullText": "crackers",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "sqs",
+    "fullText": "sqaush",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "squash",
+    "fullText": "cherries",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "tom", 
+    "fullText": "tomatoes",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "tomatoes",
+    "fullText": "rice",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bbq",
+    "fullText": "barbequed",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "barbequed",
+    "fullText": "meat",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bf",
+    "fullText": "beef",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "beef",
+    "fullText": "pork",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bns",
+    "fullText": "beans",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "beans",
+    "fullText": "milk",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bttr",
+    "fullText": "butter",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "butter",
+    "fullText": "almond",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cnd",
+    "fullText": "canned",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "canned",
+    "fullText": "sausage",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "crl",
+    "fullText": "cereal",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cereal",
+    "fullText": "chips",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "chs",
+    "fullText": "cheese",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cheese",
+    "fullText": "cheddar",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "chick",
+    "fullText": "chicken",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "chicken",
+    "fullText": "duck",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "choc",
+    "fullText": "chocolate",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "chocolate",
+    "fullText": "candy",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cinn",            
+    "fullText": "cinnamon",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cinnamon",
+    "fullText": "sugar",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cnd",
+    "fullText": "canned",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "canned",
+    "fullText": "sausage",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cocnt",
+    "fullText": "coconut",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "coconut",
+    "fullText": "coke",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "concd",
+    "fullText": "concentrated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "concentrated",
+    "fullText": "solid",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "ckd",
+    "fullText": "cooked",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cooked",
+    "fullText": "dinner",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "crm",
+    "fullText": "cream",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cream",
+    "fullText": "ice",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dk",
+    "fullText": "dark",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "dark",
+    "fullText": "white",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dssrt",
+    "fullText": "dessert",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "dessert",
+    "fullText": "pastry",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "drk",
+    "fullText": "drink",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "drink",
+    "fullText": "juice",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "drumstk",
+    "fullText": "drumstick",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "drumstick",
+    "fullText": "wings",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "eng",
+    "fullText": "english",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "english",
+    "fullText": "spanish",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "ex",
+    "fullText": "extra",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "extra",
+    "fullText": "more",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "flav",
+    "fullText": "flavored",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "flavored",
+    "fullText": "colored",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "flr",
+    "fullText": "flour",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "flour",
+    "fullText": "dipping",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "frsting",
+    "fullText": "frosting",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "frosting",
+    "fullText": "iced",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "grn",
+    "fullText": "greens",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "greens",
+    "fullText": "vegetables",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "imp",
+    "fullText": "imported",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "imported",
+    "fullText": "microwaved",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "inst",
+    "fullText": "instant",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "instant",
+    "fullText": "delayed",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "juc",
+    "fullText": "juice",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "juice",
+    "fullText": "water",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "krnls",
+    "fullText": "kernels",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "kernels",
+    "fullText": "spinach",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "lrg",
+    "fullText": "large",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "large",
+    "fullText": "small",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "ln",
+    "fullText": "lean",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "lean",
+    "fullText": "fat",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "lt",
+    "fullText": "light",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "light",
+    "fullText": "dark",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "lofat",
+    "fullText": "low fat",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "low fat",
+    "fullText": "high fat",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mshd",
+    "fullText": "mashed",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mashed",
+    "fullText": "cooked",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "med",
+    "fullText": "medium",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "medium",
+    "fullText": "tiny",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mxd",
+    "fullText": "mixed",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mixed",
+    "fullText": "seperate",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "nat",
+    "fullText": "natural",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "natural",
+    "fullText": "organic",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pdr",
+    "fullText": "powder",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "powder",
+    "fullText": "liquid",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "prep",
+    "fullText": "prepared",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "prepared",
+    "fullText": "jelly",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "prot",
+    "fullText": "protein",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "protein",
+    "fullText": "pills",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pudd",         
+    "fullText": "pudding",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "pudding",
+    "fullText": "cake",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "red",
+    "fullText": "reduced",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "reduced",
+    "fullText": "added",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "refr",
+    "fullText": "refrigerator",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "refrigerator",
+    "fullText": "freeze",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "reg",
+    "fullText": "regular",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "regular",
+    "fullText": "stick",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "rtl",
+    "fullText": "retail",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "retail",
+    "fullText": "points",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "al",
+    "fullText": "aluminum",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "aluminum",
+    "fullText": "metal",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "applsauc",
+    "fullText": "apllesauce",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "applesauce",
+    "fullText": "honey",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "approx",
+    "fullText": "approximate",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "approximate",
+    "fullText": "zoo",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "art",
+    "fullText": "artificial",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "artificial",
+    "fullText": "natural",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "asprt",
+    "fullText": "aspartame",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "aspartame",
+    "fullText": "party",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "babyfd",
+    "fullText": "babyfood",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "babyfood",
+    "fullText": "breakfast",
+    "isShortHand": "false"
+},{
+    "shortendText": "bsd",
+    "fullText": "based",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "based",
+    "fullText": "baked",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bev",
+    "fullText": "beverage",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "beverage",
+    "fullText": "drink",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bld",
+    "fullText": "boiled",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "boiled",
+    "fullText": "fried",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bnless",
+    "fullText": "boneless",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "boneless",
+    "fullText": "meat",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "btld",
+    "fullText": "bottled",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "bottled",
+    "fullText": "cartoons",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "bttn",
+    "fullText": "bottom",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "bottom",
+    "fullText": "top",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "buttermilk",
+    "fullText": "bttrmlk",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "buttermilk",
+    "fullText": "soymilk",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "carb",
+    "fullText": "carbonated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "carbonated",
+    "fullText": "oxygen",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cntr",
+    "fullText": "center",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "center",
+    "fullText": "middle",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "chol",
+    "fullText": "cholesterol",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "cholesterol",
+    "fullText": "diamond",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "chopd",
+    "fullText": "chopped",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "chopped",
+    "fullText": "smashed",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "coatd",
+    "fullText": "coated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "coated",
+    "fullText": "wrapped",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "comm",
+    "fullText": "commercial",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "commercial",
+    "fullText": "books",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "comp",
+    "fullText": "composite",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "composite",
+    "fullText": "beaver",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "cond",
+    "fullText": "condensed",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "condensed",
+    "fullText": "melted",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dehyd",
+    "fullText": "dehydrated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "dehydrated",
+    "fullText": "hydrated",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dil",
+    "fullText": "diluted",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "diluted",
+    "fullText": "percent",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dom",
+    "fullText": "domestic",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "domestic",
+    "fullText": "international",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "enr",         
+    "fullText": "enriched",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "enriched",
+    "fullText": "enhanced",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "eq",         
+    "fullText": "equal",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "eqaul",         
+    "fullText": "false",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "evap",         
+    "fullText": "evaporated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "evaporated",         
+    "fullText": "boiled",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "fort",         
+    "fullText": "fortified",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "fortified",         
+    "fullText": "collapse",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "frstd",
+    "fullText": "frosted",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "frosted",
+    "fullText": "frozen",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "grds",
+    "fullText": "grades",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "grades",
+    "fullText": "gender",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "gm",
+    "fullText": "gram",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "gram",
+    "fullText": "weight",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "htd",
+    "fullText": "heated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "heated",
+    "fullText": "dry",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "hr",
+    "fullText": "hour",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "hour",
+    "fullText": "hand",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "hydr",
+    "fullText": "hydrogenated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "hydrogenated",
+    "fullText": "purify",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "immat",
+    "fullText": "immature",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "immature",
+    "fullText": "mature",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "incl",
+    "fullText": "include",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "include",
+    "fullText": "with",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "dehyd",
+    "fullText": "dehydrated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "ing",
+    "fullText": "ingredient",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "ingredient",
+    "fullText": "component",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "jr",
+    "fullText": "junior",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "junior",
+    "fullText": "senior",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "lvnd",
+    "fullText": "leavened",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "leavened",
+    "fullText": "loosen",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mayo",
+    "fullText": "mayonnaise",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mayonnaise",
+    "fullText": "ranch",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "mesq",
+    "fullText": "mesquite",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "mesquite",
+    "fullText": "bug",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "oz",
+    "fullText": "ounce",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "ounce",
+    "fullText": "pound",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pk",
+    "fullText": "pack",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "pack",
+    "fullText": "back",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "part",
+    "fullText": "partial",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "partial",
+    "fullText": "whole",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "past",
+    "fullText": "pasteurized",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "pasteurized",
+    "fullText": "sweets",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pln",
+    "fullText": "plain",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "plain",
+    "fullText": "flat",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "pnapple",
+    "fullText": "pineapple",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "pineapple",
+    "fullText": "honeydew",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "prtrhs",
+    "fullText": "porterhouse",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "porterhouse",
+    "fullText": "buffet",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "prehtd",
+    "fullText": "preheated",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "preheated",
+    "fullText": "refrigerated",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "prop",
+    "fullText": "propionate",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "propionate",
+    "fullText": "solution",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "replcmnt",
+    "fullText": "replacement",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "replacement",
+    "fullText": "subsitute",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "rnd",
+    "fullText": "round",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "round",
+    "fullText": "square",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "rst",
+    "fullText": "roast",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "roast",
+    "fullText": "bake",
+    "isShortHand": "false"
+},
+{
+    "shortendText": "sndwch",
+    "fullText": "sandwich",
+    "isShortHand": "true"
+},
+{
+    "shortendText": "sandwich",
+    "fullText": "subway",
+    "isShortHand": "false"
+}
+]
