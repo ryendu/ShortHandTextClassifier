@@ -1,5 +1,5 @@
 # ShortHandTextClassifier
-A Binary Machine Learning model that can tell you whether a word is the short hand version of another word. This Machine learning model can help with scanning reciepts for a predifined list of words, or better translation, and many other uses. The current model has reached a 96 percent accuracy, you can find the dataset, the jupyter notebook used for training, and all the checkpoints of models + the final model in the git hub repository.
+A project that I worked on as a beginner learning ml. Binary ml classifier that can tell you whether a word is the short hand version of another word. This Machine learning model can help with scanning reciepts for a predifined list of words, or better translation, and many other uses. The current model has reached a 96 percent accuracy, you can find the dataset, the jupyter notebook used for training, and all the checkpoints of models + the final model in the git hub repository.
 
 ## Use Cases
 
